@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "latestVersionCode": 15201600,
   "latestVersionName": "17.0.10000",
-  "title": "",
-  "message": "",
-  "UpdateButtonText": "",
-  "UpdateButtonUrl": ""
+  "title": "UPADATE AVELEBLAE",
+  "message": "UPDATE",
+  "UpdateButtonText": "try",
+  "UpdateButtonUrl": "https://gourav.wuaze.com"
 }
