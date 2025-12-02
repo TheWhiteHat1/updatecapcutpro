@@ -1,0 +1,9 @@
+{
+  "showDialog": true,
+  "latestVersionCode": 15201600,
+  "latestVersionName": "16.8.10000",
+  "title": "UPDATE AVAILABLE",
+  "message": "New Update Available:\n• Bug Fixes\n• New Features Added\n• Network Issues Solved\n• Improved Performance\n• Better User Experience",
+  "UpdateButtonText": "UPDATE NOW",
+  "UpdateButtonUrl": "https://gouravofficial.wuaze.com/public/category.php?slug=files"
+}
